@@ -5,3 +5,4 @@
 * [What is the difference between const pointer and pointer to const?](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 * [Performance of std::vector vs dynamic array](https://stackoverflow.com/questions/381621/using-arrays-or-stdvectors-in-c-whats-the-performance-gap)
 * [List initialization is preferred](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
+* [Use list initialization for std::vector](https://stackoverflow.com/questions/2236197/what-is-the-easiest-way-to-initialize-a-stdvector-with-hardcoded-elements)
