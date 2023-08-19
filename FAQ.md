@@ -6,4 +6,5 @@
 * [Performance of std::vector vs dynamic array](https://stackoverflow.com/questions/381621/using-arrays-or-stdvectors-in-c-whats-the-performance-gap)
 * [List initialization is preferred](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
 * [Use list initialization for std::vector](https://stackoverflow.com/questions/2236197/what-is-the-easiest-way-to-initialize-a-stdvector-with-hardcoded-elements)
+* [Initialize std::vector with size](https://stackoverflow.com/questions/10559283/how-to-create-a-vector-of-user-defined-size-but-with-no-predefined-values)
 * [Initialize an array](https://www.learncpp.com/cpp-tutorial/arrays-part-ii/)
