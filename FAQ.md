@@ -8,3 +8,4 @@
 * [Use list initialization for std::vector](https://stackoverflow.com/questions/2236197/what-is-the-easiest-way-to-initialize-a-stdvector-with-hardcoded-elements)
 * [Initialize std::vector with size](https://stackoverflow.com/questions/25108854/initializing-the-size-of-a-c-vector)
 * [Initialize an array](https://www.learncpp.com/cpp-tutorial/arrays-part-ii/)
+* [static_cast and dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
